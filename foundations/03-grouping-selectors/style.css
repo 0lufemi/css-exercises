@@ -8,5 +8,6 @@
 }
 
 .click-me, .no-click-me {
-    fo
+    font-size: 28px;
+    font-family: helvetica, 'times new roman', 'sans-serif';
 }
